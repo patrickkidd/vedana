@@ -1,1 +1,5 @@
-{}
+{
+    "python.testing.pytestEnabled": false,
+    "python.testing.autoTestDiscoverOnSaveEnabled": false,
+    "python.analysis.enablePytestSupport": false
+}
