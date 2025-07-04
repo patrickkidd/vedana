@@ -8,6 +8,7 @@ ACCESS_READ_WRITE = "rw"
 
 ROLE_ADMIN = "admin"
 ROLE_SUBSCRIBER = "subscriber"
+ROLE_AUDITOR = "auditor"
 
 LICENSE_FREE = "com.vedanamedia.familydiagram.free"
 LICENSE_BETA = "com.vedanamedia.familydiagram.beta"
